@@ -1,9 +1,0 @@
-/Users/lxd/Projects/FlowX/FlowX/bin/Debug/netcoreapp3.1/FlowX.deps.json
-/Users/lxd/Projects/FlowX/FlowX/bin/Debug/netcoreapp3.1/FlowX.dll
-/Users/lxd/Projects/FlowX/FlowX/bin/Debug/netcoreapp3.1/FlowX.pdb
-/Users/lxd/Projects/FlowX/FlowX/obj/Debug/netcoreapp3.1/FlowX.csprojAssemblyReference.cache
-/Users/lxd/Projects/FlowX/FlowX/obj/Debug/netcoreapp3.1/FlowX.AssemblyInfoInputs.cache
-/Users/lxd/Projects/FlowX/FlowX/obj/Debug/netcoreapp3.1/FlowX.AssemblyInfo.cs
-/Users/lxd/Projects/FlowX/FlowX/obj/Debug/netcoreapp3.1/FlowX.csproj.CoreCompileInputs.cache
-/Users/lxd/Projects/FlowX/FlowX/obj/Debug/netcoreapp3.1/FlowX.dll
-/Users/lxd/Projects/FlowX/FlowX/obj/Debug/netcoreapp3.1/FlowX.pdb

@@ -1,9 +1,0 @@
-/Users/lxd/Projects/Steps/Steps/obj/Debug/netcoreapp3.1/Steps.csprojAssemblyReference.cache
-/Users/lxd/Projects/Steps/Steps/obj/Debug/netcoreapp3.1/Steps.AssemblyInfoInputs.cache
-/Users/lxd/Projects/Steps/Steps/obj/Debug/netcoreapp3.1/Steps.AssemblyInfo.cs
-/Users/lxd/Projects/Steps/Steps/obj/Debug/netcoreapp3.1/Steps.csproj.CoreCompileInputs.cache
-/Users/lxd/Projects/Steps/Steps/bin/Debug/netcoreapp3.1/Steps.deps.json
-/Users/lxd/Projects/Steps/Steps/bin/Debug/netcoreapp3.1/Steps.dll
-/Users/lxd/Projects/Steps/Steps/bin/Debug/netcoreapp3.1/Steps.pdb
-/Users/lxd/Projects/Steps/Steps/obj/Debug/netcoreapp3.1/Steps.dll
-/Users/lxd/Projects/Steps/Steps/obj/Debug/netcoreapp3.1/Steps.pdb
