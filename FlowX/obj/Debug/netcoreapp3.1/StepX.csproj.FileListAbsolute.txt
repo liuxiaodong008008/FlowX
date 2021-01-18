@@ -1,0 +1,9 @@
+/Users/lxd/Projects/Steps/StepX/bin/Debug/netcoreapp3.1/StepX.deps.json
+/Users/lxd/Projects/Steps/StepX/bin/Debug/netcoreapp3.1/StepX.dll
+/Users/lxd/Projects/Steps/StepX/bin/Debug/netcoreapp3.1/StepX.pdb
+/Users/lxd/Projects/Steps/StepX/obj/Debug/netcoreapp3.1/StepX.csprojAssemblyReference.cache
+/Users/lxd/Projects/Steps/StepX/obj/Debug/netcoreapp3.1/StepX.AssemblyInfoInputs.cache
+/Users/lxd/Projects/Steps/StepX/obj/Debug/netcoreapp3.1/StepX.AssemblyInfo.cs
+/Users/lxd/Projects/Steps/StepX/obj/Debug/netcoreapp3.1/StepX.csproj.CoreCompileInputs.cache
+/Users/lxd/Projects/Steps/StepX/obj/Debug/netcoreapp3.1/StepX.dll
+/Users/lxd/Projects/Steps/StepX/obj/Debug/netcoreapp3.1/StepX.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1S5/mImqkxEeszDZb6SEfiofCKM1mv5s1Hn8ysN32G/BfQfDL8sSQdPzAZIzkImAvwrKu1DUtQ6z9fXoHjBK/A==",
+  "success": true,
+  "projectFilePath": "/Users/lxd/Projects/FlowX/FlowX/FlowX.csproj",
+  "expectedPackageFiles": [
+    "/Users/lxd/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.1/microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "/Users/lxd/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
