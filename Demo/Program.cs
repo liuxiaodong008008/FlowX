@@ -13,9 +13,9 @@ namespace Demo
         {
             var serviceProvider = new ServiceCollection()
                 .AddStepMiddleware<CustomStepMiddleware1>()
-                .AddStepMiddleware<CustomStepMiddleware2>()
+                // .AddStepMiddleware<CustomStepMiddleware2>()
                 .AddFlowMiddleware<CustomFlowMiddleware1>()
-                .AddFlowMiddleware<CustomFlowMiddleware2>()
+                // .AddFlowMiddleware<CustomFlowMiddleware2>()
                 .BuildServiceProvider();
             
             new Program().Build(serviceProvider).Run();
@@ -30,6 +30,13 @@ namespace Demo
                 {
                     Console.WriteLine(x.Value);
                 })
+                | If(()=>x.Value%2==1).Then(() =>
+                {
+                    Console.WriteLine("True");
+                }).Else(() =>
+                {
+                    Console.WriteLine("False");
+                }) 
                 | While(() => x.Value < 3).Do(() =>
                 {
                     Console.WriteLine(x.Value);
